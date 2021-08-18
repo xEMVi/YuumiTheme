@@ -1,0 +1,41 @@
+/**
+* @name Yuumi
+* @version 1.0
+* @description Motyw "Yuumi" został stworzony przez EMVi'ego
+* @author ΞMVi🖤#0001
+* @source https://github.com/xEMVi/YuumiTheme
+* @website https://www.twitch.tv/emvi___
+* @donate https://www.paypal.com/paypalme/xemvi
+*/
+@import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand');
+:root {
+--background-image: url('https://i.imgur.com/QNvSSLl.jpg');
+--background-image-blur: 1px;
+--background-image-size: cover;
+--background-image-position: center;
+--popout-modal-image: url('https://i.imgur.com/QNvSSLl.jpg');
+--popout-modal-blur: 13px;
+--popout-modal-size: cover;
+--popout-modal-position: center;
+--home-button-mage: url('https://i.imgur.com/eEgNKfH.png');
+--home-button-size: cover;
+--home-button-position: center;
+--serverlist-brightness: 0.8;
+--left-brightness: 0.8;
+--middle-brightness: 0.6;
+--right-brightness: 0;
+--popout-modal-brightness: 0.5;
+--gradient-primary: 0,145,183;
+--gradient-secondary: 0,181,115;
+--gradient-direction: 320deg;
+--tint-colour: 255,51,159;
+--tint-brightness: 0;
+--window-padding: 0px;
+--window-roundness: 0px;
+--scrollbar-colour: #ffffff0d;
+--link-colour: #00b0f4;
+--show-gift-gif-buttons: none;
+--font: 'Patrick Hand';
+--update-notice-1: none;
+}
